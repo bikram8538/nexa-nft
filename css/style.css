@@ -53,7 +53,7 @@ body {
   transform: scale(1.05);
 }
 .banner {
-  height: 90dvh;
+  /* height: 90dvh; */
   height: 90vh;
 }
 .banner .container {
@@ -238,9 +238,9 @@ hr {
   .hero-para {
     margin: 0 auto;
   }
-  .banner {
+  /* .banner {
     height: 50vh;
-  }
+  } */
 }
 
 /* media 767px md */
